@@ -27,7 +27,3 @@ function showdomdogs(res){
 // finally we will call the showdogs() function that will display the image first time when the page load
 // 'showdogs()' function here
 showdogs();
-function showdog(){
-    let name = document.getElementById('enterhere').value 
-    console.log(name);
-}
